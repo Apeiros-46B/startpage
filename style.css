@@ -7,9 +7,10 @@ html {
 
 body {
   display: flex;
-  color: #dcd9c0;
-  background: #101010;
-  font-family: Pragmata Pro;
+  color: #d8caac;
+  background: #2b3339;
+  font-family: JetBrainsMono Nerd Font;
+  line-height: 110%;
   margin-right: 9em;
   padding: 1em;
 }
@@ -32,7 +33,7 @@ nav {
 
 h1 {
   font-size: 2.2em;
-  font-weight: 600;
+  font-weight: 800;
   grid-column: 1/-1;
   text-align: center;
   margin-bottom: 0;
@@ -40,8 +41,8 @@ h1 {
 
 h2 {
   font-size: 1.2em;
-  font-weight: 600;
-  color: #525252;
+  font-weight: 800;
+  color: #607279;
   grid-column: 1/-1;
   text-align: center;
   margin-bottom: 2.3em;
@@ -55,27 +56,30 @@ ul {
 }
 
 li {
-  line-height: 1.4em;
+  line-height: 1.5em;
   margin-left: 4.8em;
 }
 
 li:first-child {
   display: inline-block;
-  color: #daa6c3;
+  color: #87c095;
   font-size: 1.5em;
-  font-weight: 600;
+  font-weight: 800;
   text-align: center;
   line-height: 2em;
   margin-left: 2.5em;
 }
 
 a {
-  color: #525252;
+  color: #607279;
   font-size: 1.1em;
   text-decoration: none;
 }
 
 a:hover {
-  color: #e0db96;
-  font-style: italic;
+  color: #89beba;
+  font-style: normal;
+  font-weight: bold;
 }
+
+/*# sourceMappingURL=style.css.map */

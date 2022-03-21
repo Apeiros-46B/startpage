@@ -12,6 +12,7 @@ body {
   color: $themeFg;
   background: $themeBg;
   font-family: $fontFace;
+  line-height: $fontLineHeight;
   margin-right: 9em;
   padding: 1em;
 }
@@ -59,7 +60,7 @@ ul {
 }
 
 li {
-  line-height: 1.4em;
+  line-height: 1.5em;
   margin-left: 4.8em;
 }
 li:first-child {
@@ -80,4 +81,5 @@ a {
 a:hover {
   color: $themeHover;
   font-style: $fontHoverStyle;
+  font-weight: $fontHoverWeight;
 }
