@@ -74,12 +74,14 @@ a {
   color: #607279;
   font-size: 1.1em;
   text-decoration: none;
+  transition: 0.3s ease;
 }
 
 a:hover {
   color: #89beba;
   font-style: normal;
   font-weight: bold;
+  transition: 0.3s ease;
 }
 
 /*# sourceMappingURL=style.css.map */
