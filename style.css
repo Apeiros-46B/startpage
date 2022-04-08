@@ -7,7 +7,7 @@ html {
 
 body {
   display: flex;
-  color: #d8caac;
+  color: #d3c6aa;
   background: #2b3339;
   font-family: JetBrainsMono Nerd Font;
   line-height: 110%;
@@ -42,7 +42,7 @@ h1 {
 h2 {
   font-size: 1.2em;
   font-weight: 800;
-  color: #607279;
+  color: #859289;
   grid-column: 1/-1;
   text-align: center;
   margin-bottom: 2.3em;
@@ -62,7 +62,7 @@ li {
 
 li:first-child {
   display: inline-block;
-  color: #87c095;
+  color: #83c092;
   font-size: 1.5em;
   font-weight: 800;
   text-align: center;
@@ -71,13 +71,13 @@ li:first-child {
 }
 
 a {
-  color: #607279;
+  color: #859289;
   font-size: 1.1em;
   text-decoration: none;
 }
 
 a:hover {
-  color: #89beba;
+  color: #7fbbb3;
   font-style: normal;
   font-weight: bold;
   transition: 0.3s;
