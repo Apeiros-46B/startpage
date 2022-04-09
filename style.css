@@ -42,7 +42,7 @@ h1 {
 h2 {
   font-size: 1.2em;
   font-weight: 800;
-  color: #607279;
+  color: #859289;
   grid-column: 1/-1;
   text-align: center;
   margin-bottom: 2.3em;
@@ -71,7 +71,7 @@ li:first-child {
 }
 
 a {
-  color: #859289;
+  color: #607279;
   font-size: 1.1em;
   text-decoration: none;
 }
